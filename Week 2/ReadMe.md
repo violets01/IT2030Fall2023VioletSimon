@@ -1,0 +1,1 @@
+<p>In this weeks lab, we created a project from a template on Visual Studios. I created a bannor image and added it as a header image on my home page, added a project description on the home page, and added the given css file.</p>
