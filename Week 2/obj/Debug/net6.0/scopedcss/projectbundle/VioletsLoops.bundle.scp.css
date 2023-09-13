@@ -1,0 +1,49 @@
+/* _content/VioletsLoops/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-p97yucrwqu] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-p97yucrwqu] {
+  color: #0077cc;
+}
+
+.btn-primary[b-p97yucrwqu] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-p97yucrwqu], .nav-pills .show > .nav-link[b-p97yucrwqu] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-p97yucrwqu] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-p97yucrwqu] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-p97yucrwqu] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-p97yucrwqu] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-p97yucrwqu] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
