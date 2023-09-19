@@ -6,16 +6,16 @@
 <ol>
   <li>Models\TipCalculator.cs 
     <ol>
-      <li>A ; was missed</li>
+      <li>A ; was missed.</li>
     </ol>
   <li>Controllers\Homecontroller.cs
     <ol>
-      <li>ViewBag.Twentyfive. “B” was not capitalized</li> 
-      <li>Needed to add return to line 18</li>
+      <li>ViewBag.Twentyfive. “B” was not capitalized.</li> 
+      <li>Needed to add return to line 18.</li>
     </ol>
   <li>Views\Home\Index.cshtml 
     <ol>
-    <li><label>@ViewBag.Fifteen.ToString("c2")</label> fifteen was misspelled</li>
+    <li><label>@ViewBag.Fifteen.ToString("c2")</label> fifteen was misspelled.</li>
     </ol>
   <li>Models\TipCalculator.cs (Fixing the calculation)
     <ol>
