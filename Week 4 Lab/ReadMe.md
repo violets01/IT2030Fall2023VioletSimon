@@ -1,7 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Corrections</h2>
+<ol>
+  <li>models\TipCalculator.cs 
+    <ol>
+    <li>A ; was missed</li>
+  <li>Controllers\Homecontroller.cs
+      <li>ViewBag.Twentyfive. “B” was not capitalized</li>  
+    </ol>
+  </li>
+  <li>Milk</li>
+</ol>
+
+</body>
+</html>
+
 1.)models\TipCalculator.cs 
   a.A ; was missed 
 2.)Controllers\Homecontroller.cs
-ViewBag.Twentyfive. “B” was not capitalized 
+
 Needed to add return to line 18 
 Views\Home\Index.cshtml 
 <label>@ViewBag.Fifteen.ToString("c2")</label> fifteen was misspelled 
