@@ -7,8 +7,10 @@
   <li>models\TipCalculator.cs 
     <ol>
     <li>A ; was missed</li>
+    </ol>
   <li>Controllers\Homecontroller.cs
-      <li>ViewBag.Twentyfive. “B” was not capitalized</li>  
+    <ol>
+     <li>ViewBag.Twentyfive. “B” was not capitalized</li>  
     </ol>
   </li>
   <li>Milk</li>
